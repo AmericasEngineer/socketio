@@ -1,0 +1,20 @@
+{
+  "name": "socketio",
+  "version": "1.0.0",
+  "description": "Quick demo app for nodejs",
+  "dependencies": {
+        "socket.io": "latest",
+        "express": "latest",
+        "jade": "latest"
+  },  
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "nodeapp"
+  },
+  "author": "Youngbuckscrew",
+  "license": "ISC"
+}
